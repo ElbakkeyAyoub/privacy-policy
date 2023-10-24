@@ -69,7 +69,7 @@ AYOUB BAKKAY
 
 * Email: elbakkey.ayoub@gmail.com
 
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
+* GitHub: https://github.com/ElbakkeyAyoub/privacy-policy
 
 * Website: [http://www.elbakkey.ayoub@gmail.com.com](http://www.arthurgareginyan.com)
 
