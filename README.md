@@ -65,12 +65,12 @@ This Privacy Policy Template is licensed under the [GNU General Public License, 
 
 ## Author
 
-Arthur Garegnyan
+AYOUB BAKKAY
 
-* Email: arthurgareginyan@gmail.com
+* Email: elbakkey.ayoub@gmail.com
 
 * GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
 
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+* Website: [http://www.elbakkey.ayoub@gmail.com.com](http://www.arthurgareginyan.com)
 
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+* Donation: [http://www.elbakkey.ayoub@gmail.com.com/donate.html](http://www.arthurgareginyan.com/donate.html)
